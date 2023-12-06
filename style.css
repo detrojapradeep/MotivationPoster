@@ -1,0 +1,27 @@
+body{
+    background: black;
+}
+
+.motivationPoster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.motivationImage{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.motivationPoster h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.motivationPoster p{
+    color: white;
+    text-align: center;
+}
